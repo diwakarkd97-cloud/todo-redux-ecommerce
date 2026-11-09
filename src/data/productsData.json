@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "The Alchemist",
+      "price": 399,
+      "category": "Fiction",
+      "image": "https://covers.openlibrary.org/b/isbn/9780062315007-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 4.7,
+        "count": 154
+      }
+    },
+    {
+      "id": 2,
+      "title": "The Da Vinci Code",
+      "price": 450,
+      "category": "Mystery & Thriller",
+      "image": "https://covers.openlibrary.org/b/isbn/9780307474278-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 3.5,
+        "count": 89
+      }
+    },
+    {
+      "id": 3,
+      "title": "The Psychology of Money",
+      "price": 420,
+      "category": "Finance & Wealth",
+      "image": "https://covers.openlibrary.org/b/isbn/9780857197689-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 4.2,
+        "count": 276
+      }
+    },
+    {
+      "id": 4,
+      "title": "Rich Dad Poor Dad",
+      "price": 380,
+      "category": "Personal Finance",
+      "image": "https://covers.openlibrary.org/b/isbn/9781612680194-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 2.8,
+        "count": 47
+      }
+    },
+    {
+      "id": 5,
+      "title": "Atomic Habits",
+      "price": 599,
+      "category": "Self-Help",
+      "image": "https://covers.openlibrary.org/b/isbn/9780735211292-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 4.9,
+        "count": 632
+      }
+    },
+    {
+      "id": 6,
+      "title": "Sapiens: A Brief History of Humankind",
+      "price": 550,
+      "category": "History & Philosophy",
+      "image": "https://covers.openlibrary.org/b/isbn/9780062316097-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 3.9,
+        "count": 118
+      }
+    },
+    {
+      "id": 7,
+      "title": "Dune",
+      "price": 650,
+      "category": "Science Fiction",
+      "image": "https://covers.openlibrary.org/b/isbn/9780441172719-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 4.4,
+        "count": 205
+      }
+    },
+    {
+      "id": 8,
+      "title": "The Subtle Art of Not Giving a F*ck",
+      "price": 499,
+      "category": "Self-Help",
+      "image": "https://covers.openlibrary.org/b/isbn/9780062457714-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 2.6,
+        "count": 39
+      }
+    },
+    {
+      "id": 9,
+      "title": "The Silent Patient",
+      "price": 430,
+      "category": "Psychological Thriller",
+      "image": "https://covers.openlibrary.org/b/isbn/9781250301697-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 4.1,
+        "count": 321
+      }
+    },
+    {
+      "id": 10,
+      "title": "Clean Code: A Handbook of Agile Software Craftsmanship",
+      "price": 850,
+      "category": "Technology & Programming",
+      "image": "https://covers.openlibrary.org/b/isbn/9780132350884-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 3.7,
+        "count": 142
+      }
+    },
+    {
+      "id": 11,
+      "title": "1984",
+      "price": 320,
+      "category": "Classic Fiction",
+      "image": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 4.8,
+        "count": 517
+      }
+    },
+    {
+      "id": 12,
+      "title": "Deep Work",
+      "price": 480,
+      "category": "Productivity",
+      "image": "https://covers.openlibrary.org/b/isbn/9781455586691-L.jpg",
+      "status": true,
+      "rating": {
+        "rate": 3.2,
+        "count": 74
+      }
+    }
+  ]
+}
